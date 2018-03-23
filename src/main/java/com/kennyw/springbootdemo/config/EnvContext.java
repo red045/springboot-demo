@@ -10,7 +10,7 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 public class EnvContext {
 
-    @Value("${debug.mode}")
+    @Value("${debug}")
     private boolean debug;
 
     public boolean isDebug() {
