@@ -1,8 +1,9 @@
 # Springboot集成mybatis
 
 ### Mybatis Generator文档
-[http://www.mybatis.org/generator/generatedobjects/exampleClassUsage.html](http://www.mybatis.org/generator/generatedobjects/exampleClassUsage.html)
-[http://mbg.cndocs.ml/configreference/table.html](http://mbg.cndocs.ml/configreference/table.html)
+[Mybatis Generator官方](http://www.mybatis.org/generator/generatedobjects/exampleClassUsage.html)
+[Mybatis Generator中文](http://mbg.cndocs.ml/configreference/table.html)
+[Mybatis Generator配置详解](https://blog.csdn.net/isea533/article/details/42102297)
 
 ### Mybatis API
-[http://www.mybatis.org/mybatis-3/zh/java-api.html](http://www.mybatis.org/mybatis-3/zh/java-api.html)
+[Mybatis API](http://www.mybatis.org/mybatis-3/zh/java-api.html)
